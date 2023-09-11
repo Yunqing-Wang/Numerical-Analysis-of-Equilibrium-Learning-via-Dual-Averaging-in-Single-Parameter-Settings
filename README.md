@@ -12,5 +12,23 @@ This project accounts for the following payment rules:
 - Second-price sealed bid
 - Vickrey–Clarke–Groves (VCG)
 
+## Prior distributions
+This project involves three different prior distributions:
+- Uniform distribution
+- Power rule distribution
+- Exponential distribution
+
 ## About simulations
 In order to mirror real-world auction environments as closely as possible, this project employs the concept of combinatorial sets to account for every conceivable bid and value proposition. Furthermore, we assume all bidders adhere to a symmetric strategy, the calculation methods are identical for each bidder. Hence, within the coding structure, we utilize bidder 1 as a representative for bidder i to maintain this consistency.
+
+## About code
+- First-price sealed bid auction based on multiunit can be found here: Multiunit/First price.py
+- First-price sealed bid auction with different priors based on multiunit can be found here:
+- Second-price sealed bid auction based on multiunit can be found here:
+- Second-price sealed bid auction with different priors based on multiunit can be found here:
+- First-price sealed bid auction based on multiunit can be found here:
+- First-price sealed bid auction with different priors based on sponsored search can be found here:
+- Second-price sealed bid auction based on sponsored search can be found here:
+- Second-price sealed bid auction with different priors based on sponsored search can be found here:
+- VCG based on sponsored search can be found here:
+- VCG based on sponsored search can be found here:
