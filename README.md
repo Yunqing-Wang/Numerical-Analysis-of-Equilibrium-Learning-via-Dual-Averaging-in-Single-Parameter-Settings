@@ -3,7 +3,7 @@ This project contains the research and findings focused on the numerical analysi
 
 ## Auction forms
 This project simulates the following auction forms:
-- Multiunit auction:
+- Multiunit auction
 - Sponsored Search auction
 
 ## Payment rules
