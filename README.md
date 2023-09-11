@@ -22,7 +22,7 @@ This project involves three different prior distributions:
 In order to mirror real-world auction environments as closely as possible, this project employs the concept of combinatorial sets to account for every conceivable bid and value proposition. Furthermore, we assume all bidders adhere to a symmetric strategy, the calculation methods are identical for each bidder. Hence, within the coding structure, we utilize bidder 1 as a representative for bidder i to maintain this consistency.
 
 ## About code
-- First-price sealed bid auction based on multiunit can be found here: [Link](https://raw.githubusercontent.com/Yunqing-Wang/Numerical-Analysis-of-Equilibrium-Learning-via-Dual-Averaging-in-Single-Parameter-Settings/main/Multiunit/First%20price.py)
+- First-price sealed bid auction based on multiunit can be found here: [Link](https://github.com/Yunqing-Wang/Numerical-Analysis-of-Equilibrium-Learning-via-Dual-Averaging-in-Single-Parameter-Settings/blob/main/Multiunit/First%20price.py)
 - First-price sealed bid auction with different priors based on multiunit can be found here: [Link](URL)
 - Second-price sealed bid auction based on multiunit can be found here: [Link](URL)
 - Second-price sealed bid auction with different priors based on multiunit can be found here: [Link](URL)
