@@ -8,8 +8,8 @@ This project simulates the following auction forms:
 
 ## Payment rules
 This project accounts for the following payment rules:
-- first-price sealed bid
-- second-price sealed bid
+- First-price sealed bid
+- Second-price sealed bid
 - Vickrey–Clarke–Groves (VCG)
 
 ## About simulations
